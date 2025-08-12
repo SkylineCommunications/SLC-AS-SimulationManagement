@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Analysis", "Code Analy
 		Internal\Code Analysis\stylecop.json = Internal\Code Analysis\stylecop.json
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartQASnmpSimulation", "StartQASnmpSimulation\StartQASnmpSimulation.csproj", "{0F59E535-4BF7-AFDB-E7E7-DDA110759A0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{B709B720-175A-4C32-917C-CDFE3FD87CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B709B720-175A-4C32-917C-CDFE3FD87CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B709B720-175A-4C32-917C-CDFE3FD87CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F59E535-4BF7-AFDB-E7E7-DDA110759A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F59E535-4BF7-AFDB-E7E7-DDA110759A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F59E535-4BF7-AFDB-E7E7-DDA110759A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F59E535-4BF7-AFDB-E7E7-DDA110759A0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
